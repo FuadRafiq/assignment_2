@@ -261,4 +261,3 @@ Recursion: [Video]
 
 115. Power Calculation: Write a recursive Python function called `power` that takes two positive integers, base and exponent, as input and returns the value of base raised to the exponent.
 
-We have explored a variety of programming problems in Python covering different topics such as variables, strings, typecasting, data types, loops, lists, dictionaries, and recursion. These problems are designed to challenge your understanding of Python concepts and provide opportunities to practice problem-solving and coding skills. By working through these problems, you can gain a deeper understanding of Python syntax, data structures, and control flow. Additionally, solving problems involving nested structures, such as nested loops, nested lists, and nested functions, can improve your ability to work with complex data arrangements.
